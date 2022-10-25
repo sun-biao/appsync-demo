@@ -8,8 +8,8 @@ import threading
 import json
 
 # Constants Copied from AppSync API 'Settings'
-API_URL = "https://hpx6nqcpargk5koynpygwtqcly.appsync-api.us-west-2.amazonaws.com/graphql"
-API_KEY = "da2-okaasp6snfdtreekaffenvsfla"
+API_URL = "XXX"
+API_KEY = "XXX"
 
 # GraphQL subscription Registration object
 GQL_SUBSCRIPTION = json.dumps({
