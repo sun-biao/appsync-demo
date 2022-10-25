@@ -7,7 +7,7 @@ import random
 import datetime
 
 # Define server with port
-bootstrap_servers = ['b-2.tickerkafka.sj49ms.c1.kafka.us-west-2.amazonaws.com:9094','b-1.tickerkafka.sj49ms.c1.kafka.us-west-2.amazonaws.com:9094']
+bootstrap_servers = ['']
 
 
 # Define topic name where the message will publish
